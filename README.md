@@ -3,4 +3,5 @@ College Buddy is an Ed-tech oriented productivity startup started by 5 students 
 We are focused to connect students with each other for constructive results and we are connecting vendors everywhere, so students can get their important stuff delivered at doorstep within hours. We bring you the freedom to explore and have fun.
 
 Link to website - https://collegebuddy.co.in/
+
 Link to live app - https://play.google.com/store/apps/details?id=com.printhub.signup
